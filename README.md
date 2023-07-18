@@ -1,5 +1,5 @@
 # GestiondesNotes
-Note Management est une application Java en mode Console qui implémente le concept de JDBC. 
+C'est une application Java en mode Console qui implémente le concept de JDBC. 
 Voici les exigences requises pour la réalisation de ce projet:
 
 DB:
